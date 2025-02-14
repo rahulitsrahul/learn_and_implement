@@ -1,0 +1,24 @@
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore Spyder project settings
+.spyproject/
+
+# Ignore build directories
+/build/
+/bin/
+/obj/
+/out/
+
+/# Ignore compiled object and binary files
+*.o
+*.a
+*.so
+*.exe
+*.out
+*.dll
+*.dylib
+*.pdb
+*.idb
+*.lib
+*.app
